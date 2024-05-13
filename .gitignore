@@ -1,0 +1,7 @@
+node_modules/
+config/
+N/
+playground/
+emails/account.js
+.firebaserc
+firebase.json
